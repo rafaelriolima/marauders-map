@@ -3,8 +3,8 @@
 // Global Variables
 
 // Map Variables
-	L.mapbox.accessToken = 'pk.eyJ1IjoiYXJhbmtoYW5uYSIsImEiOiJEdDJreGxjIn0.Y3-LSV20SRRZOzs_6nSFjA';
-	var map_id = "arankhanna.m3ankjj3";
+	L.mapbox.accessToken = 'sk.eyJ1IjoicmFmYTIzNDgiLCJhIjoiMzNkMjgyNjBkMjc5ZWE2YTUyMGRkMGJjOTdkZDYyZjQifQ.-SNTZT0N_JLFhrSxT1se-g';
+	var map_id = "http://api.tiles.mapbox.com/v4/mapbox.streets/0/0/0.png?access_token=pk.eyJ1IjoicmFmYTIzNDgiLCJhIjoiYjlmZTA0ZTYwYmRmN2U5YWYwMzRlZTYyMzBiYWQ2MTgifQ.k1GI6a6RP5DlV1F7GKygWA";
 	// Map object
 	var map = null;
 	// Lines between points drawn on map
